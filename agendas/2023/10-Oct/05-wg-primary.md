@@ -71,7 +71,7 @@ PLEASE TAKE NOTE:
 | This is an open meeting: To attend, read [JoiningAMeeting.md][] then edit and PR this file. (Edit: ✎ above, or press "e") |
 | ---------------------------------------------------------------------------------------- |
 
-# GraphQL WG – August 2023 (Primary)
+# GraphQL WG – October 2023 (Primary)
 
 The GraphQL Working Group meets regularly to discuss changes to the
 [GraphQL Specification][] and other core GraphQL projects. This is an open
@@ -81,7 +81,7 @@ This is the primary monthly meeting, which typically meets on the first Thursday
 of the month. In the case we have additional agenda items or follow ups, we also
 hold additional secondary meetings later in the month.
 
-- **Date & Time**: [August 3, 2023, 10:30 AM – 12:00 PM PDT](https://www.timeanddate.com/worldclock/converter.html?iso=20230803T173000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
+- **Date & Time**: [October 5, 2023, 10:30 AM – 12:00 PM PDT](https://www.timeanddate.com/worldclock/converter.html?iso=20231005T173000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
   - View the [calendar][], or subscribe ([Google Calendar][], [ical file][]).
   - _Please Note:_ The date or time may change. Please check this agenda the
     week of the meeting to confirm. While we try to keep all calendars accurate,
@@ -102,16 +102,6 @@ hold additional secondary meetings later in the month.
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Lee Byron (Host) | @leebyron     | GraphQL Foundation | San Francisco, CA, US |
-| Alex Reilly | @twof     | Pronto.ai | San Francisco, CA, US |
-| Calvin Cestari | @calvincestari | Apollo | Vancouver, BC, CA |
-| Benjie Gillam | @benjie | Graphile | Chandler's Ford, UK |
-| Benoit Lubek | @BoD | Apollo | Lyon, FR |
-| Martin Bonnin | @martinbonnin | Apollo | Paris, FR |
-| Rob Richard   | @robrichard   | 1stDibs | Jersey City, NJ, US |
-| Matt Mahoney | @mjmahone | Meta | New York, NY, US
-| Ivan Goncharov | @IvanGoncharov | Apollo | Lviv, UA
-| Anthony Miller | @AnthonyMDev | Apollo | Las Vegas, NV, US |
-| Michael Staib | @michaelstaib | ChilliCream Inc | Zurich, CH |
 
 
 ## Agenda
@@ -125,12 +115,9 @@ hold additional secondary meetings later in the month.
 1. Determine volunteers for note taking (1m, Lee)
 1. Review agenda (2m, Lee)
 1. Review prior secondary meetings (5m, Lee)
-   - [July WG Secondary, APAC](https://github.com/graphql/graphql-wg/blob/main/agendas/2023/07-Jul/12-wg-secondary-apac.md)
-   - [July WG Secondary, EU](https://github.com/graphql/graphql-wg/blob/main/agendas/2023/07-Jul/20-wg-secondary-eu.md)
+   - [September WG Secondary, APAC](https://github.com/graphql/graphql-wg/blob/main/agendas/2023/09-Sep/13-wg-secondary-apac.md)
+   - [September WG Secondary, EU](https://github.com/graphql/graphql-wg/blob/main/agendas/2023/09-Sep/21-wg-secondary-eu.md)
 1. Review previous meeting's action items (5m, Lee)
    - [Ready for review](https://github.com/graphql/graphql-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    - [All open action items (by last update)](https://github.com/graphql/graphql-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Action+item+%3Aclapper%3A%22+sort%3Aupdated-desc)
    - [All open action items (by meeting)](https://github.com/graphql/graphql-wg/projects?query=is%3Aopen+sort%3Aname-asc)
-1. Update on Client Controlled Nullability proposal (15m, Calvin)
-1. SDL Omissions (10m, if any time left, Martin)
-   - [Spec edits](https://github.com/graphql/graphql-spec/pull/1036)
